@@ -1,0 +1,16 @@
+{
+  "name": "yemnas.project-of-multiplication-2-10",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "yemnas-project-of-multiplication-2-10": "./main.js"
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
